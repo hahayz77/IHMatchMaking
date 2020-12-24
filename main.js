@@ -50,4 +50,15 @@ if(dif3 <= dif1 && dif3 <= dif2){
     teamShuffle[4]=teamShuffle2[3];
     teamShuffle[5]=teamShuffle2[4];
 }
-console.log(teamShuffle);
+
+
+let comps = [
+    [0,2,5,1,3,4],
+    [0,3,5,1,2,4],
+    [0,3,4,1,2,5],
+]
+
+for (i = 0; 1<6 ; i++){
+    teamShuffle
+
+}
